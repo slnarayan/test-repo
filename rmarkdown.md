@@ -1,6 +1,6 @@
 # Heading1
 ## Heading2
-### Heading3
+### Test the file update with the new Git install
 
 - first bullet
 - second bullet
